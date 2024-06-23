@@ -1,3 +1,14 @@
-body{
+body, html {
     background-image: url("pictures/starsmoving.gif");
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    margin: 0;
+    display: flex;
+}
+
+.content {
+    text-align: center;
+    padding: 20;
+    color: rgb(228, 199, 9);
 }
